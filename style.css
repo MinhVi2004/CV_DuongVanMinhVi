@@ -61,7 +61,7 @@ h3 {
       width: 100%;
       display: flex;
       flex-direction: column;
-      align-items: center;
+      align-items: left;
 }
 #left-section-skill h3 {
       margin: 10px;
